@@ -137,6 +137,4 @@ Developed using open-source tools and models from:
 * Facebook AI Research (FAISS)
 * Streamlit
 
----
 
-Let me know if you want to auto-generate a `README.md` for GitHub or deploy this on Streamlit Cloud!
