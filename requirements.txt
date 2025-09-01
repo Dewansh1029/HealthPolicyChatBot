@@ -1,0 +1,8 @@
+langchain
+sentence-transformers
+chromadb
+PyMuPDF
+streamlit
+langchain-community
+faiss-cpu
+langchain-huggingface
